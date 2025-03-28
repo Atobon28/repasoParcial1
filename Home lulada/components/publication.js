@@ -89,7 +89,7 @@ class LuladaPublication extends HTMLElement {
                 <!-- Imagen de la publicación (si existe) -->
                 ${image ? `
                     <img 
-                        src="${image}" 
+                        src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/50/d1/1d/vive-una-experiencia.jpg?w=600&h=-1&s=1" 
                         alt="Publication image" 
                         class="publication-image"
                     >
