@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "email": "juanperez@email.com",
+      "telefono": "+5491123456789",
+      "direccion": "Av. Siempre Viva 123, Buenos Aires, Argentina"
+    },
+    {
+      "id": 2,
+      "nombre": "Ana Gómez",
+      "email": "anagomez@email.com",
+      "telefono": "+3491122334455",
+      "direccion": "Calle Mayor 45, Madrid, España"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos López",
+      "email": "carloslopez@email.com",
+      "telefono": "+5215512345678",
+      "direccion": "Reforma 200, Ciudad de México, México"
+    },
+    {
+      "id": 4,
+      "nombre": "María Rodríguez",
+      "email": "mariarodriguez@email.com",
+      "telefono": "+569987654321",
+      "direccion": "Av. Providencia 1500, Santiago, Chile"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro Sánchez",
+      "email": "pedrosanchez@email.com",
+      "telefono": "+5716001234",
+      "direccion": "Cra 7 #123, Bogotá, Colombia"
+    },
+    {
+      "id": 6,
+      "nombre": "Laura Fernández",
+      "email": "laurafernandez@email.com",
+      "telefono": "+34666123456",
+      "direccion": "Passeig de Gràcia 50, Barcelona, España"
+    },
+    {
+      "id": 7,
+      "nombre": "Ricardo González",
+      "email": "ricardogonzalez@email.com",
+      "telefono": "+5511998765432",
+      "direccion": "Av. Paulista 1000, São Paulo, Brasil"
+    },
+    {
+      "id": 8,
+      "nombre": "Sofía Martínez",
+      "email": "sofiamartinez@email.com",
+      "telefono": "+541132156789",
+      "direccion": "Belgrano 250, Mendoza, Argentina"
+    },
+    {
+      "id": 9,
+      "nombre": "David Herrera",
+      "email": "davidherrera@email.com",
+      "telefono": "+5218187654321",
+      "direccion": "Av. Universidad 300, Monterrey, México"
+    },
+    {
+      "id": 10,
+      "nombre": "Camila Torres",
+      "email": "camilatorres@email.com",
+      "telefono": "+573154321678",
+      "direccion": "Calle 10 #45, Medellín, Colombia"
+    },
+    {
+      "id": 11,
+      "nombre": "José Ramírez",
+      "email": "joseramirez@email.com",
+      "telefono": "+50760012345",
+      "direccion": "Calle 50, Ciudad de Panamá, Panamá"
+    },
+    {
+      "id": 12,
+      "nombre": "Daniela Castro",
+      "email": "danielacastro@email.com",
+      "telefono": "+569555444333",
+      "direccion": "Alameda 500, Santiago, Chile"
+    },
+    {
+      "id": 13,
+      "nombre": "Andrés Silva",
+      "email": "andressilva@email.com",
+      "telefono": "+593987654321",
+      "direccion": "Av. Amazonas 400, Quito, Ecuador"
+    },
+    {
+      "id": 14,
+      "nombre": "Fernanda Ríos",
+      "email": "fernandarios@email.com",
+      "telefono": "+59898765432",
+      "direccion": "18 de Julio 900, Montevideo, Uruguay"
+    },
+    {
+      "id": 15,
+      "nombre": "Tomás Navarro",
+      "email": "tomasnavarro@email.com",
+      "telefono": "+50761234567",
+      "direccion": "Via España 100, Ciudad de Panamá, Panamá"
+    },
+    {
+      "id": 16,
+      "nombre": "Elena Ortega",
+      "email": "elenaortega@email.com",
+      "telefono": "+50370012345",
+      "direccion": "Blvd. de los Héroes, San Salvador, El Salvador"
+    },
+    {
+      "id": 17,
+      "nombre": "Manuel Vargas",
+      "email": "manuelvargas@email.com",
+      "telefono": "+50575001234",
+      "direccion": "Rotonda Bello Horizonte, Managua, Nicaragua"
+    },
+    {
+      "id": 18,
+      "nombre": "Paula Méndez",
+      "email": "paulamendez@email.com",
+      "telefono": "+50251234567",
+      "direccion": "Zona 10, Ciudad de Guatemala, Guatemala"
+    },
+    {
+      "id": 19,
+      "nombre": "Hugo Salazar",
+      "email": "hugosalazar@email.com",
+      "telefono": "+59170012345",
+      "direccion": "Av. Ballivián 800, La Paz, Bolivia"
+    },
+    {
+      "id": 20,
+      "nombre": "Natalia Vega",
+      "email": "nataliavega@email.com",
+      "telefono": "+54 911 34567890",
+      "direccion": "San Martín 350, Córdoba, Argentina"
+    },
+    {
+      "id": 21,
+      "nombre": "Alfonso García",
+      "email": "alfonsogarcia@email.com",
+      "telefono": "+56 978654321",
+      "direccion": "Apoquindo 6000, Santiago, Chile"
+    },
+    {
+      "id": 22,
+      "nombre": "Luciana Ramos",
+      "email": "lucianaramos@email.com",
+      "telefono": "+507 69991234",
+      "direccion": "Cinta Costera, Ciudad de Panamá, Panamá"
+    },
+    {
+      "id": 23,
+      "nombre": "Marcos Beltrán",
+      "email": "marcosbeltran@email.com",
+      "telefono": "+52 55 66778899",
+      "direccion": "Polanco, Ciudad de México, México"
+    },
+    {
+      "id": 24,
+      "nombre": "Gabriela Núñez",
+      "email": "gabrielanunez@email.com",
+      "telefono": "+595 991234567",
+      "direccion": "Avda. Mariscal López, Asunción, Paraguay"
+    },
+    {
+      "id": 25,
+      "nombre": "Eduardo Castillo",
+      "email": "eduardocastillo@email.com",
+      "telefono": "+507 64567890",
+      "direccion": "Costa del Este, Ciudad de Panamá, Panamá"
+    },
+    {
+      "id": 26,
+      "nombre": "Samantha Reyes",
+      "email": "samanthareyes@email.com",
+      "telefono": "+506 88887777",
+      "direccion": "San Pedro, San José, Costa Rica"
+    },
+    {
+      "id": 27,
+      "nombre": "Francisco Delgado",
+      "email": "franciscodelgado@email.com",
+      "telefono": "+505 88889999",
+      "direccion": "Altamira, Managua, Nicaragua"
+    },
+    {
+      "id": 28,
+      "nombre": "Carmen Suárez",
+      "email": "carmensuarez@email.com",
+      "telefono": "+53 53567890",
+      "direccion": "Vedado, La Habana, Cuba"
+    },
+    {
+      "id": 29,
+      "nombre": "Pablo Fuentes",
+      "email": "pablofuentes@email.com",
+      "telefono": "+52 33 44556677",
+      "direccion": "Guadalajara, Jalisco, México"
+    },
+    {
+      "id": 30,
+      "nombre": "Valentina Morales",
+      "email": "valentinamorales@email.com",
+      "telefono": "+54 911 22334455",
+      "direccion": "Rosario, Santa Fe, Argentina"
+    }
+  ]
+  
